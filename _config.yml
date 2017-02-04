@@ -1,0 +1,11 @@
+# Site settings
+title: Mad Labs - Spread Bytes RevealJs with Jeckyll
+author: Gabriele Manfredi
+email: madlabsprojects@gmail.com
+
+# Build settings
+markdown: kramdown
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
