@@ -1,4 +1,4 @@
-# sb-jekyll-revealjs
+# sb-jekyll-revealjs v0.2
 
 A Jekyll-based framework for creating simle presentations with Reveal.js and markdown.
 
