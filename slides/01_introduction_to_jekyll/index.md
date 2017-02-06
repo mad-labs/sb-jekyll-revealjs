@@ -18,12 +18,15 @@ databackgroundimage: /assets/images/grunge-danger_custom_2.jpg
 theme: night
 reveal:
   transition: concave
+
 intros:
   - presentation/intro_icebreakers.md
   - presentation/intro_madlabs.md
   - presentation/intro_whoami.md
+
 outros:
   - presentation/outro_contacts.md
+  
 whoami:
   name: Gabriele Manfredi
   image:
