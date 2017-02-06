@@ -22,7 +22,7 @@ slides:
 intros:
   - presentation/intro_icebreakers.md
   - presentation/intro_madlabs.md
-  - presentation/intro_gabriele.md
+  - presentation/intro_whoami.md
 outros:
   - presentation/outro_contacts.md
 slides:
