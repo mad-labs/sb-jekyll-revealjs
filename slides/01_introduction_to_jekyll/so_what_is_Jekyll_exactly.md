@@ -28,5 +28,5 @@ which means you can use Jekyll to host your project’s page, blog, or website f
 
 ### Competitor
 
-![https://www.staticgen.com/]({{ "images/top_open_source_static_site_generators.png" | prepend: site.baseurl }})
+![https://www.staticgen.com/]({{ "assets/images/top_open_source_static_site_generators.png" }})
 <!-- next-slide -->

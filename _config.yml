@@ -1,5 +1,5 @@
 # Site settings
-title: Mad Labs - Spread Bytes RevealJs with Jeckyll
+title: Mad Labs - Spread Bytes RevealJs with Jekyll
 author: Gabriele Manfredi
 email: madlabsprojects@gmail.com
 
@@ -17,6 +17,7 @@ defaults:
     values:
       layout: presentation
       theme: black
+      custom-theme: assets/css/custom-style.css
       vsplit: '<!-- vertical-slide -->'
       nsplit: '<!-- next-slide -->'
       reveal: 
@@ -83,3 +84,6 @@ defaults:
         #- Set to 0 to disable movement along an axis
         parallaxBackgroundHorizontal: 'null'
         parallaxBackgroundVertical: 'null'
+
+sass:
+  sass_dir: assets/css

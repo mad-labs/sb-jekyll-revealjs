@@ -3,7 +3,7 @@
 
 Jekyll uses the Liquid templating language to process templates. All of the standard [Liquid](https://shopify.github.io/liquid/) tags and filters are supported.
 
-![Liquid website]({{ "images/liquid_template_language.png" | prepend: site.baseurl }})
+![Liquid website]({{ "assets/images/liquid_template_language.png" }})
 
 Jekyll even adds a few handy filters and tags of its own to make common tasks easier.
 <!-- vertical-slide -->
