@@ -3,6 +3,17 @@ title: Introduction to Jekyll
 description: Introduction to Jekyll - a static site generator
 layout: presentation_multipage
 databackgroundimage: /assets/images/grunge-danger_custom_2.jpg
+#databackgroundsize: "100px" 
+#databackgroundposition: "center"
+#databackgroundrepeat: "repeat"
+
+#databackgroundcolor: "#ff0000"
+
+#databackgroundiframe: ""
+
+#databackgroundvideo: "https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" 
+#databackgroundvideoloop: true
+#databackgroundvideomuted: true
 
 theme: night
 
